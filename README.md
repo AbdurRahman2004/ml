@@ -1,4 +1,5 @@
-EXP2
+---
+**EXP2**
 
 
 
@@ -6,7 +7,7 @@ EXP2
 
 
 
-PCA
+**PCA**
 
 
 
@@ -222,7 +223,7 @@ plt.show()
 
 
 
-SVD
+**SVD**
 
 
 
@@ -338,7 +339,7 @@ print(VT)
 
 
 
-LDA
+**LDA**
 
 
 
@@ -572,7 +573,7 @@ plt.show()
 
 
 
-EXP3
+**EXP3**
 
 
 
@@ -580,7 +581,7 @@ EXP3
 
 
 
-KNN
+**KNN**
 
 
 
@@ -880,7 +881,7 @@ for k in [1, 2, 3]:
 
 
 
-Naive Bayes
+**Naive Bayes**
 
 
 
@@ -1386,7 +1387,7 @@ EXP4
 
 
 
-Decision Tree
+**Decision Tree**
 
 
 
@@ -1710,7 +1711,7 @@ plt.show()
 
 
 
-Random Forest
+**Random Forest**
 
 
 
@@ -2012,7 +2013,7 @@ EXP5
 
 
 
-SVM
+**SVM**
 
 
 
@@ -2368,7 +2369,7 @@ EXP6
 
 
 
-Linear Regression
+**Linear Regression**
 
 
 
@@ -2636,7 +2637,7 @@ print(f"Slope: {slope:.2f}")
 
 
 
-Multiple linear regression
+**Multiple linear regression**
 
 
 
@@ -2940,7 +2941,7 @@ plt.show()
 
 
 
-Multiple Linear regression
+**Multiple Linear regression**
 
 
 
@@ -3120,7 +3121,7 @@ print(f"y = {y_pred:.3f} Lakhs")
 
 
 
-Logistic
+**Logistic**
 
 
 
@@ -3384,7 +3385,7 @@ plt.show()
 
 
 
-Polynomial 
+**Polynomial** 
 
 
 
@@ -3758,7 +3759,7 @@ EXP7
 
 
 
-K means
+**K means**
 
 
 
@@ -3866,7 +3867,7 @@ print(f"Cluster centers : {centers}")
 
 
 
-K mediod
+**K mediod**
 
 
 
@@ -4026,7 +4027,7 @@ print("Cluster medoids:", medoids)
 
 
 
-Hierarchical
+**Hierarchical**
 
 
 
@@ -4238,7 +4239,7 @@ plt.show()
 
 
 
-DB Scan
+**DB Scan**
 
 
 
@@ -4624,7 +4625,7 @@ EXP8
 
 
 
-Neural network
+**Neural network**
 
 
 
@@ -4992,7 +4993,7 @@ EXP9
 
 
 
-Reinforcement
+**Reinforcement**
 
 
 
@@ -5556,7 +5557,7 @@ EXP10
 
 
 
-Cross validation
+**Cross validation**
 
 
 
